@@ -19,3 +19,11 @@ Analyze customer reviews to extract sentiment insights using Python libraries.
 | 2000         | 73        | 0.314           |
 | 10000        | 390       | 1.000           |
 
+## Output result 
+![Sentiment Analysis Overview](senti-Output.png "Sentiment Analysis")
+
+
+## Output application 
+![Output application](Senti-output.png "Sentiment Analysis")
+
+
